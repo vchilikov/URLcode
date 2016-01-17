@@ -1,0 +1,10 @@
+http://google.com
+http://ya.ru
+http://google.ru
+http://moremoney.moscow
+http://ugradirect.ru
+http://ya.ru/asdasdsadsadsadasd
+http://httpstat.us/524
+http://httpstat.us/301
+http://httpstat.us/306
+http://httpstat.us/413
